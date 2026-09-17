@@ -5,6 +5,10 @@ Voice Calculator is a simple, interactive, and user-friendly mobile application 
 
 The application was developed using MIT App Inventor, making use of its visual block-based programming environment. The project demonstrates how mobile applications can combine voice recognition, user interface components, and mathematical logic to create a practical and interactive tool.
 
+🔗App Link.
+
+
+
 ✨ Key Features
 
 🎤 Voice-Based Input – Users can speak mathematical expressions instead of typing them.
